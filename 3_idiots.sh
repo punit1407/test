@@ -35,3 +35,4 @@ echo "third idiot: $3"
 echo "the total number of idiots: $#"
 
 echo "Hence the 3 idiots are $@"
+
